@@ -1,1 +1,8 @@
-# witt_tiago_hw3_media_querry
+Media querry HomeWork
+
+
+
+## Credits
+
+Tiago Witt
+
